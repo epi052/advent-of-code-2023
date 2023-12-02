@@ -1,4 +1,4 @@
-use advent_of_code_2022::parse_args;
+use advent_of_code_2023::parse_args;
 use color_eyre::Result;
 
 static INPUT: &str = include_str!("../inputs/input-DAY_NUM");
